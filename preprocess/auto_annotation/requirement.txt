@@ -1,0 +1,12 @@
+fuzzywuzzy
+requests
+flask
+numpy
+ufal.udpipe
+pyyaml
+configargparse
+transformers
+OpenNMT-py>=1.2.0
+pytorch_lightning==1.4.9
+torchmetrics<=0.7.3
+scikit-learn>=0.24
